@@ -1,8 +1,9 @@
 # Customer Segmentation using RFM Model
 
-### The purpose of this project is to share some experiences I had with customer segmentation using a RFM model. Also I learned a lot from the course "Customer Segmentation in Python" in DataCamp. I tried to apply what I learned into this project as well.
+### Objective:
+The purpose of this project is to share some experiences I had with customer segmentation using a RFM model. Also I learned a lot from the course "Customer Segmentation in Python" in DataCamp. I tried to apply what I learned into this project as well.
 
-### RFM is one of the most widely used techniques for selecting significant customers. It is a very popular customer segmentation technique that uses the customers’ past purchase behavior to divide them into different groups based on similarities. The name RFM stands for Recency, Frequency, and Monetary value.
+RFM is one of the most widely used techniques for selecting significant customers. It is a very popular customer segmentation technique that uses the customers’ past purchase behavior to divide them into different groups based on similarities. The name RFM stands for Recency, Frequency, and Monetary value.
 
 * Recency - days since last customer transaction
 * Frequency - number of transactions in the last 12 months
