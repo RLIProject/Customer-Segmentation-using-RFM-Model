@@ -30,8 +30,8 @@ Typically e-commerce datasets are proprietary and consequently hard to find amon
 
 ### Key summary
 Based on recency, frequency and monetary value, I segmented the customers into below 5 groups:
-1.VIP	
-2.Gold Customer	
-3.Silver Customer	
-4.Potential Customer	
-5.Require Activation
+1. VIP	
+2. Gold Customer	
+3. Silver Customer	
+4. Potential Customer	
+5. Require Activation
